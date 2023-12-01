@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am currently doing MCA from Lovely Professional University 
+<br>
 I am intrested in web-development
+<br>
 I am looking to collaborate on 
