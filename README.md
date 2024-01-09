@@ -53,6 +53,8 @@ Description of the project. Highlight key features, technologies used, and any n
 ## 📫 Let's Connect
 
 - [LinkedIn](www.linkedin.com/in/gautam-kumar-sharma-39314424a)
+- [LeetCode](https://leetcode.com/itssharmajee/)
+- [HackerRank](https://www.hackerrank.com/profile/sgautamkumar71)
 <!--- [Portfolio](https://yourportfolio.com)-->
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding journey! 👨‍💻
