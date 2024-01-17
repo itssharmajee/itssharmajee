@@ -19,7 +19,7 @@ I am intrested in web-development
 <br>
 I am looking to collaborate on 
 -->
-# Hi there! 👋 I'm [Gautam Kumar Sharma]
+# Hi there! 👋 I'm Gautam Kumar Sharma
 I am currently doing MCA from Lovely Professional University 
 <br>
 I am intrested in web-development
@@ -27,7 +27,7 @@ I am intrested in web-development
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/itssharmajee)
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)-->
 
-Welcome to my GitHub profile! I'm passionate about [Web Development] and always looking to learn and contribute to exciting projects. Here's a glimpse of what you'll find in my repositories:
+Welcome to my GitHub profile! I'm passionate about Web Development and always looking to learn and contribute to exciting projects. Here's a glimpse of what you'll find in my repositories:
 
 ## 🔧 Skills 
 
@@ -57,4 +57,6 @@ Description of the project. Highlight key features, technologies used, and any n
 - [HackerRank](https://www.hackerrank.com/profile/sgautamkumar71)
 <!--- [Portfolio](https://yourportfolio.com)-->
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding journey! 👨‍💻
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas.
+<br>
+Happy coding journey! 👨‍💻
