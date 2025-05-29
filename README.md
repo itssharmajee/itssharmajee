@@ -20,9 +20,9 @@ I am intrested in web-development
 I am looking to collaborate on 
 -->
 # Hi there! 👋 I'm Gautam Kumar Sharma
-I am currently doing MCA from Lovely Professional University 
+I have completed MCA from Lovely Professional University 
 <br>
-I am intrested in web-development
+I am intrested in web-development, Frontend Developer, Full Stack Developer.
 <br>
 <!--[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/itssharmajee)-->
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)-->
